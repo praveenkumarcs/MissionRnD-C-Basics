@@ -29,7 +29,7 @@ int main(){
 	//Test Count file
 	
 	int countTemp = count(5, 20);
-	printf("%d\n", countTemp);
+	printf(" count is equal to %d\n", countTemp);
 
 
 	//Test Swap
